@@ -48,5 +48,5 @@ while(True):
         print("Thanks for using calculator !!!")
         break
     else:
-         raise VlaueError("Please Enter valid choice numbe!!!")
+        raise ValueError("Please Enter valid choice numbe!!!")
     
